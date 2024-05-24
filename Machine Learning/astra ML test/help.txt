@@ -1,0 +1,18 @@
+id - customer's unique ID
+age - customer's age
+job - customer's current job
+marital - customer's marital status
+education - customer's education level
+default - has credit in default?
+balance - average yearly balance
+housing - has housing loan?
+loan - has personal loan?
+contact - contact type
+day_of_week - last contact day of the week
+month - last contact month of the year
+duration - last contact duration in second
+campaign - number of contacts performed during this campaign for this client
+pdays - number of days passed after last contact from previous campaign; -1 means client was not previously contacted
+previous - number of contacts performed before this campaign for this client
+poutcome - outcome of the previous marketing campaign
+y - target variable, has the client subscribed a term deposit?
